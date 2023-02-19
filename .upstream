@@ -1,0 +1,5 @@
+{
+    "name": "graphene",
+    "fetch": "https://github.com/GrapheneOS/platform_packages_apps_GmsCompat",
+    "revision": "refs/heads/13"
+}
